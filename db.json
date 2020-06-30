@@ -14,5 +14,8 @@
    ],
    "empresa": {
      "nome": "Code Prestige"
-   }
+   },
+   "series": [
+     {"id": 1, "titulo": "Seinfeld", "ano": "1989", "genero": "comedia"}
+   ]
  }
